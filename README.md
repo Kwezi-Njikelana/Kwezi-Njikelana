@@ -11,7 +11,7 @@
 ## 👩🏽‍💻 About Me
 
 - 💻 Frontend-focused Fullstack Engineer  
-- ⚛️ Strong in React & React Native  
+- ⚛️ Strong in React   
 - 🎯 Focused on performance, clean UI, and great UX  
 - 🧠 Constantly improving my backend & system design skills  
 - 🌍 Open to remote opportunities  
