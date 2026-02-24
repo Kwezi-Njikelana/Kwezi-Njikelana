@@ -34,9 +34,7 @@
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
-
-### Databases
-![BigQuery](https://img.shields.io/badge/-BigQuery-000?&logo=googlebigquery)
+![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-000)
 
 ---
 
