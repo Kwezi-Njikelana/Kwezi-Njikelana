@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Hi, I'm Kwezi 👋🏽</h1>
   <p align="center">
-    Frontend-Focused Fullstack Engineer <br/>
+    Frontend Software Engineer <br/>
     I build clean, scalable & intuitive digital experiences.
   </p>
 </p>
@@ -10,7 +10,7 @@
 
 ## 👩🏽‍💻 About Me
 
-- 💻 Frontend-focused Fullstack Engineer  
+- 💻 Frontend Software Engineer  
 - ⚛️ Strong in React   
 - 🎯 Focused on performance, clean UI, and great UX  
 - 🧠 Constantly improving my backend & system design skills  
@@ -39,9 +39,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-### 📝 react-todo-list
-A clean and responsive task management application built with React and JavaScript. Focused on component structure, state management, and user-friendly UI interactions.
 
 ### 🔗 react-fastapi
 Fullstack integration project connecting a React frontend with a FastAPI backend. Demonstrates API consumption, asynchronous data handling, and structured frontend architecture.
