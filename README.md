@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/kwezi-njikelana">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Kwezi%20Njikelana" alt="Hello! I&#39;m Kwezi Njikelana" />
   </a>
 </p>
 
